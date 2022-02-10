@@ -9,6 +9,7 @@ Setup para executar o teste:
 
 - Clonar projeto
 - `npm install`
+- `cd Front-end/`
 - Executar comando: `npm run cy:open`
 
 Utilizado os plugins:
